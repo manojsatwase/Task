@@ -276,6 +276,7 @@ link {
   }
   .about-me__header {
     background-image: unset;
+    height: 620px;
   }
   .profile__pic {
     margin-top: 10px !important;
